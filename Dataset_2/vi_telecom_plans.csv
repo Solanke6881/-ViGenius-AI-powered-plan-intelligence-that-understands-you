@@ -1,0 +1,18 @@
+plan_id,plan_name,price,validity_days,data_allowance,unlimited_calls,ott_included,network_type,category
+1,Vi NonStop Hero 28D,398,28,Unlimited,True,None,5G,Unlimited
+2,Vi NonStop Hero 56D,698,56,Unlimited,True,None,5G,Unlimited
+3,Vi NonStop Hero 84D,1048,84,Unlimited,True,None,5G,Unlimited
+4,Vi SuperHero 299,299,28,2GB/day,True,None,5G,SuperHero
+5,Vi SuperHero 399,399,28,2GB/day,True,JioHotstar,5G,SuperHero
+6,Vi SuperHero 449,449,28,3GB/day,True,Vi Movies & TV,5G,SuperHero
+7,Vi SuperHero 999,999,84,2GB/day,True,JioHotstar,5G,SuperHero
+8,Vi SuperHero 3699,3699,365,2GB/day,True,JioHotstar,5G,SuperHero
+9,Data Pack 49,49,1,6GB,False,None,4G,Data
+10,Data Pack 98,98,28,12GB,False,None,4G,Data
+11,Data Pack 139,139,28,12GB,False,None,4G,Data
+12,OTT Combo 239,239,28,2GB,True,JioHotstar,4G,OTT
+13,OTT Combo 95,95,14,4GB,False,SonyLIV,4G,OTT
+14,IR Pack 695,695,1,1GB,False,None,4G,International
+15,IR Pack 2695,2695,4,4GB,False,None,4G,International
+16,IR Pack 3495,3495,7,Unlimited,True,None,4G,International
+17,IR Pack 6995,6995,28,15GB,False,None,4G,International
